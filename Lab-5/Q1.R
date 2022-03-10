@@ -1,0 +1,11 @@
+{
+  print(numeric(3))
+  print(logical(3))
+  print(character(3))
+  print(complex(3))
+  print(seq.int(2,8))
+  print(seq_len(4))
+  print(mean(56,67))
+  print(sum(78,89))
+  print(max(6,8))
+}
